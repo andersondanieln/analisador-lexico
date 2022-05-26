@@ -1,4 +1,3 @@
-# analisador-lexico
 # Analisador Léxico Multi-linguagem
 
 Este software surgiu de um trabalho da faculdade, na disciplina de Compiladores.   

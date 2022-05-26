@@ -5,7 +5,7 @@ Permite definir uma ou mais "linguagens" a serem analisadas (um ou mais grupos d
 
 ### Estrutura de arquivos:
 
-*   **pascalCode.txt**
+*   **code.txt**
 
        Arquivo contendo o código/texto que será analisado.
 

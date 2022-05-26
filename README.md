@@ -1,7 +1,7 @@
 # Analisador Léxico Multi-linguagem
 
-Este software surgiu de um trabalho da faculdade, na disciplina de Compiladores.   
-Permite definir uma ou mais "linguagens" a serem analisadas (um ou mais grupos de definições).
+Desenvolvido para um trabalho da disciplina de Compiladores. Escrito em JavaScript e utilizando algumas biblotecas do NodeJS.
+
 
 ### Estrutura de arquivos:
 

@@ -1,0 +1,19 @@
+{
+  "name": "trabalho-de-compiladores",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Interpretador Léxico ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anderson Daniel Lima do Nascimento",
+  "license": "ISC",
+  "dependencies": {
+    "table": "^6.8.0",
+    "xlsx": "^0.18.5"
+  },
+  "pkg": {
+    "scripts": "/*.js"
+  }
+}
